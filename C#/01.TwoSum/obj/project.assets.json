@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\01.TwoSum.csproj",
+      "projectUniqueName": "d:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\01.TwoSum.csproj",
       "projectName": "01.TwoSum",
-      "projectPath": "D:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\01.TwoSum.csproj",
+      "projectPath": "d:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\01.TwoSum.csproj",
       "packagesPath": "C:\\Users\\Wilgen\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\obj\\",
+      "outputPath": "d:\\Proyectos\\Javascript\\leetcode-problems\\C#\\01.TwoSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
