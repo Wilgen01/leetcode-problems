@@ -1,7 +1,7 @@
-# Resolviendo problemas de leetcode
-Solución de problemas de leetcode en diferentes lenguajes
+# Resolviendo ejercicios de leetcode
+Solución de ejercicios de leetcode en diferentes lenguajes
 
-## Problemas resueltos
+## Ejercicios resueltos
 - [1. Two Sum](https://leetcode.com/problems/palindrome-number/)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)

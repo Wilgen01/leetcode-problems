@@ -12,7 +12,6 @@ class Program
 
 public class Solution {
     public static int LengthOfLastWord(string s) {
-        var wordArr = s.Trim().Split(" ");
-        return wordArr[wordArr.Length - 1].Length;
+        return s.Trim().Split(" ").Last().Length;
     }
 }
