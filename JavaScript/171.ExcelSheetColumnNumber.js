@@ -32,10 +32,10 @@ var titleToNumber = function(columnTitle) {
 
 
 
-// console.log(titleToNumber('A')); // expected 1 ✔️
-// console.log(titleToNumber('AB')); // expected 28 ✔️
-// console.log(titleToNumber('ZY')); // expected 701 ✔️
-// console.log(titleToNumber('AA')); // expected 27 ✔️
-// console.log(titleToNumber('Z')); // expected 26 ✔️
+console.log(titleToNumber('A')); // expected 1 ✔️
+console.log(titleToNumber('AB')); // expected 28 ✔️
+console.log(titleToNumber('ZY')); // expected 701 ✔️
+console.log(titleToNumber('AA')); // expected 27 ✔️
+console.log(titleToNumber('Z')); // expected 26 ✔️
 console.log(titleToNumber('FXSHRXW')); // expected 2147483647 ✔️
 console.log(titleToNumber('AAZ')); // expected 728 ✔️
