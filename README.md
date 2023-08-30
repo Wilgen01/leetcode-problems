@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://leetcode.com/wilgengarciac/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fwilgengarciac&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Badge">
+    </a>
+</p>
+
 # Resolviendo ejercicios de leetcode
 Solución de ejercicios de leetcode en diferentes lenguajes
 
