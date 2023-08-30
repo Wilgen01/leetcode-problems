@@ -16,6 +16,7 @@ Solución de ejercicios de leetcode en diferentes lenguajes
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) 
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) 
+- [169. Majority Element](https://leetcode.com/problems/majority-element/) 
 - [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) 
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) 
